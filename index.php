@@ -1,0 +1,1 @@
+<?php echo 'Hello World. (This site use Virtual Server in the Cloud)';
